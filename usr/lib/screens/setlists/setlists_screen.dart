@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';\n\nclass SetlistsScreen extends StatelessWidget {\n  const SetlistsScreen({super.key});\n\n  @override\n  Widget build(BuildContext context) {\n    return const Center(\n      child: Text('Setlists Screen - Coming Soon'),\n    );\n  }\n}\n

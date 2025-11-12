@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';\n\nclass FinancialScreen extends StatelessWidget {\n  const FinancialScreen({super.key});\n\n  @override\n  Widget build(BuildContext context) {\n    return const Center(\n      child: Text('Financial Report Screen - Coming Soon'),\n    );\n  }\n}\n
